@@ -1,3 +1,0 @@
-PRIMAC-Test
-===========
-TEST REPO :)
